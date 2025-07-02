@@ -58,6 +58,7 @@ Lo que me impulsa no es sólo resolver problemas técnicos, sino también compre
 
 ### Desarrollador Freelance y Consultor Técnico – Autónomo (Argentina)  
 *2007 – Presente (proyectos ocasionales)*  
+- Desarrollo de aplicaciones de escritorio personalizadas utilizando Java y JavaFX, enfocadas en soluciones multiplataforma.
 - Desarrollo de soluciones personalizadas y soporte técnico para pymes y profesionales.  
 - Diagnóstico y reparación de hardware y software en **Windows**, **Linux** y **macOS**.  
 - Asesoramiento en infraestructura, migración de datos e interoperabilidad.  

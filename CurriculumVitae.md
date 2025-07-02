@@ -66,7 +66,7 @@ What drives me is not only solving technical problems, but also understanding th
 - Maintained continuous learning across **embedded systems**, **networking**, and more.  
 - *Currently focused on full-time team-based engineering roles.*
 
-**Keywords:** Freelance Development, Consulting, Cross-Platform Support, Linux, Windows, macOS, Hardware Repair, Custom Software, Embedded Systems
+**Keywords:** Java, JavaFX, Freelance Development, Consulting, Cross-Platform Support, Linux, Windows, macOS, Hardware Repair, Custom Software, Embedded Systems
 
 ---
 
