@@ -59,6 +59,7 @@ What drives me is not only solving technical problems, but also understanding th
 
 ### Freelance Developer & Technical Consultant – Self-Employed (Argentina)  
 *2007 – Present (occasional projects)*  
+- Developed custom desktop applications using Java and JavaFX, focusing on cross-platform solutions.
 - Delivered custom software, hardware support, and consulting for small clients.  
 - Diagnosed systems and performed repairs on **Windows**, **Linux**, and **macOS**.  
 - Advised on infrastructure, data migration, and interoperability.  
